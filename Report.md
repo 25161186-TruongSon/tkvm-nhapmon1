@@ -29,4 +29,4 @@ https://github.com/25161186-TruongSon/tkvm-nhapmon1
 + git echo
 ## Khó khăn: lần đầu sài github mất rất nhiều thời gian để tạo nhánh
 ## Cách giải quyết: mò, tham khảo trên chatgpt, gemini
-
+## bài học rút ra: cách sử dụng github và git bash
