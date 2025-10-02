@@ -1,2 +1,3 @@
 -gioi thieu ban than
 -Ho va ten Le Van Tai
+-Nhiem vu: hoan thanh bai tap git ca nhan
