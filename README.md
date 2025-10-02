@@ -1,6 +1,6 @@
 
-# TKVM-nhapmon-nhom-TruongSon
-# 📄 Báo cáo dự án GitHub - Nhóm TruongSon
+# TKVM-nhapmon-nhom-13
+# 📄 Báo cáo dự án GitHub - Nhóm 13
 
 ## 🔗 Link Repository
 
@@ -18,7 +18,7 @@
 
 | Họ tên                | Nhiệm vụ chính                                      |
 |-----------------------|-----------------------------------------------------|
-| 25161186-Trường Sơn    | Quản lý repo, Thiết kế chính, Tổng hợp Báo cáo       |
+| Trường Sơn            | Quản lý repo, Thiết kế chính, Tổng hợp Báo cáo       |
 | Trần Minh Sơn         | Phát triển và triển khai Module A, xử lý Git         |
 | Ngô Hoàng Huy         | Thiết kế giao diện (nếu có), Kiểm thử và Review code |
 | Lê Văn Tài            | Viết tài liệu, Review báo cáo, Hỗ trợ chung          |
@@ -26,12 +26,11 @@
 
 ## 🧰 Lệnh Git được dùng nhiều nhất
 
-- git status
 - git add
 - git commit -m "..."
 - git push
-- git pull
 - git checkout -b <ten-nhanh>
 - git merge <ten-nhanh>
-- git log --oneline --graph
-- git revert <commit>
+Khó khăn: lần đầu sài github mất rất nhiều thời gian để tạo nhánh
+Cách giải quyết: mò, tham khảo trên chatgpt, gemini
+
