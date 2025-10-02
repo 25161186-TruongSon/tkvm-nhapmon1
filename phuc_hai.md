@@ -1,1 +1,2 @@
+-Ho va ten: Ho Nguyen Phuc Hai, MSSV: 25161118
 - Nhiem vu: Hoan thanh bai tap git ca nhan
